@@ -1,5 +1,5 @@
 # Shell-Implementation-
-Implemented a Unix shell using C++
+Implemented a Unix Shell using C++
 
 
 ## Supported command:
