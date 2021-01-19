@@ -11,7 +11,7 @@ using namespace std;
 
 vector<int> pipeIndex;//keeps track of when to pipe
 vector<int> leftIndex; //keeps track of "<"
-vector<int> rightIndex; //keeps track of "<"
+vector<int> rightIndex; //keeps track of ">"
 
 /*removes leading and trailing spaces*/
 void trim(string& inputString);
